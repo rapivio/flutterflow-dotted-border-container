@@ -45,24 +45,16 @@ dotted_border: ^3.1.0
 
 **Dotted upload area:**
 - `dashLength: 4`, `dashGap: 4`, `borderRadius: 8`
+<img width="142" height="137" alt="image" src="https://github.com/user-attachments/assets/0555268e-0474-4879-8db3-7d09c37e8cdc" />
 
 **Dashed card border:**
 - `dashLength: 8`, `dashGap: 4`, `borderRadius: 12`
+<img width="133" height="145" alt="image" src="https://github.com/user-attachments/assets/f8966746-faa0-4509-beac-c252a3233bb0" />
 
 **Tight dotted line:**
 - `dashLength: 2`, `dashGap: 2`, `borderRadius: 0`
+<img width="125" height="132" alt="image" src="https://github.com/user-attachments/assets/72504834-cbaa-47af-9f8d-11bc9bd17cf8" />
 
 ## License
 
 MIT
-```
-
----
-
-**Repo-Struktur:**
-```
-flutterflow-dotted-border-container/
-├── README.md
-├── LICENSE
-├── dotted_border_container.dart
-└── screenshot.png
