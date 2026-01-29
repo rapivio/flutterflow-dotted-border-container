@@ -35,8 +35,8 @@ dotted_border: ^3.1.0
 
 ## Usage
 
-1. Add the dependency in FlutterFlow (Custom Code → Dependencies)
-2. Create a new Custom Widget
+1. Add the dependency in FlutterFlow (App Settings → Project Dependencies)
+2. Create a new Custom Widget and name it "DottedBorderContainer"
 3. Copy the code from `dotted_border_container.dart`
 4. Define the parameters as shown above
 5. Use the widget and pass any child widget
